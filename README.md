@@ -10,6 +10,12 @@
 
 # Siber Güvenlik
 ---
+* [TryHackMe](https://tryhackme.com/)
+* [VulnHub](https://www.vulnhub.com/) Zafiyetli sanal makine indirmemizi sağlar
+* [hackthebox](https://www.hackthebox.com/)
+* [hackerone](https://www.hackerone.com/)
+* [bugcrowd](https://www.bugcrowd.com/)
+* [intigriti](https://www.intigriti.com/)
 
 # Ekstra
 ---
