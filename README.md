@@ -7,6 +7,7 @@
 * [Codility](https://www.codility.com/)
 * [w3schools](https://www.w3schools.com/)
 * [ide.onelang](https://ide.onelang.io/) Yazılan kodların diğer dillerde nasıl yazıldığını gösterir
+* [codewars](https://www.codewars.com/)
 
 # Siber Güvenlik
 ---
