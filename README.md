@@ -1,26 +1,26 @@
 # Yazılım
 ---
-* [codewars](https://www.codewars.com/)
+* [Codewars](https://www.codewars.com/)
 * [Codebyte](https://coderbyte.com/)
 * [Codility](https://www.codility.com/)
 * [CodeAcademy](https://www.codecademy.com/)
-* [edx](https://www.edx.org/search?q=python)
-* [freeCodeCamp](https://www.freecodecamp.org/)
+* [Edx](https://www.edx.org/search?q=python)
+* [FreeCodeCamp](https://www.freecodecamp.org/)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
 * [HackerRank](https://www.hackerrank.com/)
-* [ide.onelang](https://ide.onelang.io/) Yazılan kodların diğer dillerde nasıl yazıldığını gösterir
+* [Ide.onelang](https://ide.onelang.io/) Yazılan kodların diğer dillerde nasıl yazıldığını gösterir
 * [Patika.dev](https://www.patika.dev/tr)
 * [Python Tutor](https://pythontutor.com/) Yazılan kodları görselleştirerek adım adım ne işe yaradığını gösterir
 * [SoloLearn](https://www.sololearn.com/learning/1073)
-* [w3schools](https://www.w3schools.com/)
+* [W3schools](https://www.w3schools.com/)
 
 # Siber Güvenlik
 ---
-* [bugcrowd](https://www.bugcrowd.com/)
-* [hackthebox](https://www.hackthebox.com/)
-* [hackerone](https://www.hackerone.com/)
-* [intigriti](https://www.intigriti.com/)
-* [roadmap](https://roadmap.sh/)
+* [Bugcrowd](https://www.bugcrowd.com/)
+* [Hackthebox](https://www.hackthebox.com/)
+* [Hackerone](https://www.hackerone.com/)
+* [Intigriti](https://www.intigriti.com/)
+* [Roadmap](https://roadmap.sh/)
 * [TryHackMe](https://tryhackme.com/)
 * [VulnHub](https://www.vulnhub.com/) Zafiyetli sanal makine indirmemizi sağlar
 
@@ -34,6 +34,6 @@
 
 # Ekstra
 ---
-* [haveibeenpwned](https://haveibeenpwned.com/)
+* [Haveibeenpwned](https://haveibeenpwned.com/)
 * [Temp Mail](https://temp-mail.org/tr/) Geçici E-posta adresi almamızı sağlar
-* [win11](https://win11.blueedge.me/) Online olarak win11'i test etmemizi sağlar
+* [Win11](https://win11.blueedge.me/) Online olarak win11'i test etmemizi sağlar
