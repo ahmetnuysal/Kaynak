@@ -31,5 +31,5 @@
 # Ekstra
 ---
 * [win11](https://win11.blueedge.me/) Online olarak win11'i test etmemizi sağlar
-* [Temp Mail](https://temp-mail.org/tr/)
+* [Temp Mail](https://temp-mail.org/tr/) Geçici E-posta adresi almamızı sağlar
 * [haveibeenpwned](https://haveibeenpwned.com/)
