@@ -20,6 +20,14 @@
 * [intigriti](https://www.intigriti.com/)
 * [roadmap](https://roadmap.sh/)
 
+# Sertifika 
+---
+* [BTK Akademi](https://www.btkakademi.gov.tr/)
+* [Udemy](https://www.udemy.com/)
+* [Bilgeİş](https://bilgeis.net/)
+* [Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/)
+* [Learn Digital](https://learndigital.withgoogle.com/digitalgarage/)
+
 # Ekstra
 ---
 * [win11](https://win11.blueedge.me/) Online olarak win11'i test etmemizi sağlar
