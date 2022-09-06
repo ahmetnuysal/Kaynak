@@ -23,7 +23,7 @@
 * [Roadmap](https://roadmap.sh/)
 * [TryHackMe](https://tryhackme.com/)
 * [VulnHub](https://www.vulnhub.com/) Zafiyetli sanal makine indirmemizi sağlar
-* [hackerone]() Açıkları bulup ödül alabileceğiniz site
+* [hackerone](https://www.hackerone.com/) Açıkları bulup ödül alabileceğiniz site
 
 
 # Sertifika 
