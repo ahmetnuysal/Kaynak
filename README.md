@@ -40,5 +40,6 @@
 * [Homeworkify](https://homeworkify.net/) Chegg'de bulunan çözümleri görüntelememizi sağlar
 * [Temp Mail](https://temp-mail.org/tr/) Geçici E-posta adresi almamızı sağlar
 * [Win11](https://win11.blueedge.me/) Online olarak win11'i test etmemizi sağlar
-
+* [Pdfsayar](https://www.pdfsayar.com/tr/) Pdf arayıp indirmemizi sağlar
+* [O*NET Online](https://www.onetonline.org/)
 
