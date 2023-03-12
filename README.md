@@ -13,8 +13,8 @@
 * [Python Tutor](https://pythontutor.com/) Yazılan kodları görselleştirerek adım adım ne işe yaradığını gösterir
 * [SoloLearn](https://www.sololearn.com/learning/1073)
 * [W3schools](https://www.w3schools.com/)
-* [Python for Everybody](https://www.youtube.com/watch?v=UjeNA_JtXME&list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)
-* [Harvard CS50's Web Programming](https://www.youtube.com/watch?v=Nn7EX3zkGUo&list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
+* [Python for Everybody](https://www.youtube.com/watch?v=UjeNA_JtXME&list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p) Python Kursu 
+* [Harvard CS50's Web Programming](https://www.youtube.com/watch?v=Nn7EX3zkGUo&list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu) 
 
 
 # Siber Güvenlik
