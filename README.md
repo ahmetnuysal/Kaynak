@@ -46,6 +46,9 @@
 * [Win11](https://win11.blueedge.me/) Online olarak win11'i test etmemizi sağlar
 * [Pdfsayar](https://www.pdfsayar.com/tr/) Pdf arayıp indirmemizi sağlar
 * [O*NET Online](https://www.onetonline.org/)
+* [123apps](https://123apps.com/tr/) Ücretsiz video, ses, PDF düzenleme veya dosya dönüştürme aracı
+* [Magiceraser](https://magicstudio.com/tr/magiceraser) Fotoğraflardaki nesneleri silmemizi sağlar
+* 
 
 # Yapay Zeka
 ---
