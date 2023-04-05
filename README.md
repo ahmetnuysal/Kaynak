@@ -53,3 +53,4 @@
 * [Flair](https://flair.ai/) Markalı içeriği bir anda tasarlamanızı sağlıyor
 * [Patternerd](patterned.ai/) Arkaplan deseneleri oluşturur
 * [Copymonkey](https://copymonkey.ai/)
+* [Designer Microsoft](https://designer.microsoft.com/) Metinlerden tasarım oluşturur
