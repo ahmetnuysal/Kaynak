@@ -47,3 +47,9 @@
 * [Pdfsayar](https://www.pdfsayar.com/tr/) Pdf arayıp indirmemizi sağlar
 * [O*NET Online](https://www.onetonline.org/)
 
+# Yapay Zeka
+---
+* [Illustroke](https://illustroke.com/) Metin istemlerinden nefis vektör görüntüleri oluşturur
+* [Flair](https://flair.ai/) Markalı içeriği bir anda tasarlamanızı sağlıyor
+* [Patternerd](patterned.ai/) Arkaplan deseneleri oluşturur
+* [Copymonkey](https://copymonkey.ai/)
